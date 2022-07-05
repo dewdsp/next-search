@@ -1,6 +1,6 @@
 # Next.js + Tailwind CSS Example
 
-This example shows how to use [Search with debouce].
+This example shows how to use [Search with debouce]. From youtube: TomDoesTech
 
 ## Url for example
 
